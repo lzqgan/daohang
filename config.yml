@@ -42,7 +42,12 @@ content:
       sites:
         - name: ilovepd
           description: PDF转换。
-          url: https://www.ilovepdf.com/zh-cn
+          url: https://www.ilovepdf.com/zh-cn          
+    - name: 财经资讯         
+      sites:        
+        - name: 和讯网
+          description: 财经资讯
+          url: http://www.hexun.com/
     - name: 常用推荐
       sites:
         - name: Dribbble
