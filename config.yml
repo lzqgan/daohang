@@ -45,7 +45,7 @@ content:
           url: https://www.ilovepdf.com/zh-cn
         - name: tool
           description: 我的在线工具。
-          url: /nettool/
+          url: daohang/nettool/
     - name: 常用推荐
       sites:
         - name: Dribbble
